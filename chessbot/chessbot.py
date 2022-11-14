@@ -9,9 +9,9 @@ import discord
 import time
 import difflib
 
-client_id = '753855401895919626'
-client_secret = 'NyxaSs86PQY1OCLi_7TpqM_htdn9CxSS'
-token = 'NzUzODU1NDAxODk1OTE5NjI2.X1sQjQ.3ANIvrqzwINjZBSi3sBpKuI1F8I'
+client_id = 'redacted'
+client_secret = 'redacted'
+token = 'redacted'
 base_authorization_url = 'https://discord.com/api/oauth2/authorize'
 token_url = 'https://discord.com/api/oauth2/token'
 revocation_url = 'https://discord.com/api/oauth2/token/revoke'
