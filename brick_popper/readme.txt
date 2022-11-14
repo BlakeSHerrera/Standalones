@@ -1,0 +1,1 @@
+This script I made helped me cheat on the FaceBook game brick pop. Hey, I thought it was an interesting challenge to program. (See the included image). It would read the color of the pixels on my screen to figure out where the bricks were before calculating the best way to solve the game.

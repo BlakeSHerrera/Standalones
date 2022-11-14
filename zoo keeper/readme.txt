@@ -1,0 +1,1 @@
+This script helped me beat all of my friends in the facebook game "zoo keeper" which is basically just candy crush, but you get bonus points for being stuck instead of losing. It would read my screen and play for me!

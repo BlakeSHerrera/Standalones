@@ -1,0 +1,1 @@
+It makes tree-like fractals. This was the beginning of my fascination with fractals. Hopefully it is intuitive enough to play around with with no instruction.

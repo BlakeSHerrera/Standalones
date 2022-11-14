@@ -1,0 +1,1 @@
+This program computes a knights tour an draws a picture of it! It can also give the total number of solutions with a slight modification.

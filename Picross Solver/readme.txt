@@ -1,0 +1,1 @@
+This little tool is nifty for solving picross puzzles. Run it and watch the algorithm figuring out what the picture is!

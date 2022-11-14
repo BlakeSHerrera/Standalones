@@ -1,0 +1,1 @@
+It solves sudoku.

@@ -1,0 +1,1 @@
+A simple recreation of the game "lights out". Left clicking a cell flips it and all neighbors. Right clicking will only flip the one cell.

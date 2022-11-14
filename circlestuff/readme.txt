@@ -1,0 +1,1 @@
+This python script draws some cool circle patterns on the screen. I was wanting for it to be maybe a screensaver or just a cool animation maker. Anyways, just try it yourself a couple of times and see what cool patterns pop up!

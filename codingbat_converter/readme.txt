@@ -1,0 +1,3 @@
+This was a web crawler I made that converted all of the codingbat.com Java problems into C problems! I made it for one of my university professors who was looking for a good way to refresh students' memory on C and get them up to date on basic operations like String and array manipulation, functions and recursion, etc.
+
+The zipped file is the output, zipped. Students would fill in the function at the top and then compile and run the program themselves to check if their function worked as intended.
